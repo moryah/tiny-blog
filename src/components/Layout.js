@@ -5,7 +5,7 @@ import articles from '../data/articles';
 import { Link } from 'react-router';
 
 export default class Layout extends React.Component {
-  render() {
+render() {
     return (
       <div className="app-container">
         <header>

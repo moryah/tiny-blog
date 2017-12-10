@@ -34,10 +34,6 @@ module.exports = {
 				presets:['react']	
 			}
 		}
-		
-		
-		//{ test: /\.jsx$/, exclude: /node_modules/, loaders: ['babel-loader', 'eslint-loader'] }
-
     ]
   },
   plugins: [

@@ -7,8 +7,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --progress --profile --colors && babel-node src/server.js --presets react,es2015"
-    
-    
   },
   "author": "rafael",
   "license": "MIT",
